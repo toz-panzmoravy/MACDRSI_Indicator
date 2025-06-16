@@ -1,6 +1,6 @@
-https://www.tradingview.com/script/jkJ7ec2q-MACD-Enhanced-0-5/
 
 MACD+ Enhanced 0.5 - Advanced Trend Analysis Indicator
+[TradingView Link: https://www.tradingview.com/script/jkJ7ec2q-MACD-Enhanced-0-5/]
 
 [ENGLISH VERSION]
 
